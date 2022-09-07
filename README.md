@@ -5,7 +5,7 @@
 ## Welcome Dude 💾
 
 
-![EVANGELION](https://media.giphy.com/media/9IQYNSvV0kISY/giphy.gif)
+![EVANGELION PENPEN](https://c.tenor.com/WzuejIFnFtwAAAAC/pen-pen-evangelion.gif)
 
 ---
 
