@@ -5,7 +5,7 @@
 ## Welcome Dude 💾
 
 
-![I love Penguins](https://media.giphy.com/media/9IQYNSvV0kISY/giphy.gif)
+![EVANGELION](https://media.giphy.com/media/9IQYNSvV0kISY/giphy.gif)
 
 ---
 
