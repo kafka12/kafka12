@@ -5,7 +5,7 @@
 ## Welcome Dude 💾
 
 
-![I love EVA](https://media.giphy.com/media/9IQYNSvV0kISY/giphy.gif)
+![I love Penguins(https://media.giphy.com/media/jxETRYAi2KReel7pqy/giphy.gif)
 
 ---
 
@@ -14,6 +14,7 @@ Hi There, i'm Gaetano, i'm currently student at [ITI V.E. III PA](https://www.it
 
 - 🌊 I'm Studying Hard
 - 🍁 Desire to Learn
+- 🐧 GNU/Linux
 - 🧡 FOSS
 
 ---
