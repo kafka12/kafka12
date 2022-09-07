@@ -2,20 +2,23 @@
 **kafka12/kafka12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !-->
 
-## Welcome on my GitHub 💾
+## Welcome Dude 💾
 <!--
 ![GIF](https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif)
 !-->
 ![I love this film](https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif)
+
 ---
 
 ### About Me 👨‍💻
 Hi There, i'm Gaetano, i'm currently student at [ITI V.E. III PA](https://www.itive3pa.edu.it/) and i'm studying "INFORMATION TECHNOLOGY & TELECOMMUNICATIONS".
 
-- 🌊 I'm Studying Hard;
-- 🍁 Desire to Learn;
-- 🧡 FOSS;
+- 🌊 I'm Studying Hard
+- 🍁 Desire to Learn
+- 🧡 FOSS
+
 ---
+
 - [ ] 🌿 Currently Learning \ Interested :
 <p align="center">
   <img src="https://imgs.search.brave.com/HGRZdQGQ-oUks0TmXDo_9Nb3TXpR3tR1I-x0xTRk6Ag/rs:fit:918:1032:1/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL2lz/b2NwcC9sb2dvcy9t/YXN0ZXIvY3BwX2xv/Z28ucG5n"  title="CPP" alt="CPP" height="60" height="60"/>&nbsp;
