@@ -12,9 +12,9 @@
 ### About Me 👨‍💻
 Hi There, i'm Gaetano, i'm currently student at [ITI V.E. III PA](https://www.itive3pa.edu.it/) and i'm studying "INFORMATION TECHNOLOGY & TELECOMMUNICATIONS".
 
-- 🌠 I'm currently studying hard !
-- 👓 Desire to Learn ;
-- I 🧡 FOSS ;
+- 🌊 I'm studying hard !
+- 🍁 Desire to Learn ;
+- 🧡 FOSS ;
 ---
 - [ ] 🌿 Currently Learning :
 <p align="center">
@@ -24,3 +24,6 @@ Hi There, i'm Gaetano, i'm currently student at [ITI V.E. III PA](https://www.it
   <img src="https://imgs.search.brave.com/1BcVcmdSrY-PXvLWxr2dnB1X0q4JOPlDumA9Hmxr2RE/rs:fit:600:600:1/g:ce/aHR0cDovL3BsdXNw/bmcuY29tL2ltZy1w/bmcvamF2YXNjcmlw/dC12ZWN0b3ItcG5n/LWphdmFzY3JpcHQt/dmVjdG9yLWxvZ28t/NjAwLnBuZw" title="JavaScript" alt="JavaScript" height="60" height="60"/>&nbsp;
   <img src="https://imgs.search.brave.com/lczo_-Rnm6rCCDYQzSkpbN1ij0jvDUYYVtL0xWVSstM/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9wbmdp/bWcuY29tL3VwbG9h/ZHMvbXlzcWwvbXlz/cWxfUE5HMjMucG5n" title="MySQL" alt="MySQL" height="60" height="60"/>&nbsp;
 </p>
+<!--
+🍠 If you are reading this comment, cheers, you've got a potato !
+!-->
