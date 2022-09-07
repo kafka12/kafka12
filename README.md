@@ -4,7 +4,6 @@
 
 ## Welcome Dude 💾
 
----
 
 ![I love this film](https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif)
 
