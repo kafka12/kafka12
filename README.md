@@ -5,7 +5,6 @@
 **kafka12/kafka12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !-->
 ### About Me
----
 Hi There, i'm Gaetano, i'm currently student at [ITI V.E. III PA](https://www.itive3pa.edu.it/) and i'm studying "INFORMATION TECHNOLOGY & TELECOMMUNICATIONS".
 
 - 🌠 I'm Currently Studying Hard !
