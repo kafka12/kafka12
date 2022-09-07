@@ -3,9 +3,9 @@
 !-->
 
 ## Welcome Dude 💾
-<!--
-![GIF](https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif)
-!-->
+
+---
+
 ![I love this film](https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif)
 
 ---
