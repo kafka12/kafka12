@@ -21,6 +21,7 @@ Hi There, i'm Gaetano, i'm currently student at [ITI V.E. III PA](https://www.it
 
 - [ ] 🌿 Currently Learning:
 <p align="left">
+<img src="https://imgs.search.brave.com/OopF9JgmqLvtdQUnGFQkeURjwfosMW2VC7-CQOvqr1g/rs:fit:288:288:1/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL2dp/dGh1Yi9leHBsb3Jl/LzI2Njc0ZTYzODUw/OGFjNGE0ZTExM2Vl/MzJkNjc1NWViZmEw/MDA1NjkvdG9waWNz/L25lb3ZpbS9uZW92/aW0ucG5n" title="NeoVim" alt"NeoVim" height="60" height="60"/>&nbsp;
   <img src="https://imgs.search.brave.com/HGRZdQGQ-oUks0TmXDo_9Nb3TXpR3tR1I-x0xTRk6Ag/rs:fit:918:1032:1/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL2lz/b2NwcC9sb2dvcy9t/YXN0ZXIvY3BwX2xv/Z28ucG5n"  title="CPP" alt="CPP" height="60" height="60"/>&nbsp;
   <img src="https://imgs.search.brave.com/kjKMdxzA6RrmPSG-9VRisd54fDh538x7zNxH0sUrCh0/rs:fit:438:500:1/g:ce/aHR0cHM6Ly9iYXNo/bG9nby5jb20vaW1n/L3N5bWJvbC9wbmcv/bW9ub2Nocm9tZV9k/YXJrLnBuZw" title="Bash" alt="Bash" height="60" height="60"/>&nbsp;
   <img src="https://imgs.search.brave.com/nYrlTAuZJPf1V5lYnOSnUY9g-ykt86ITbO8_Uox2KWo/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9jbGFz/c2VzLmVuZ2luZWVy/aW5nLnd1c3RsLmVk/dS9jc2UyMzEvY29y/ZS9pbWFnZXMvMi8y/Ni9KYXZhLnBuZw" title="Java" alt="Java" height="60" height="60"/>&nbsp;
@@ -33,6 +34,7 @@ Hi There, i'm Gaetano, i'm currently student at [ITI V.E. III PA](https://www.it
 
 - [ ] 🍇 Interested To:
 <p align="left">
+  <img src="https://imgs.search.brave.com/yGeHMpRy9PeGkjy43APOk2ESx6OYA-7lnIGGLrDdmGM/rs:fit:1200:1200:1/g:ce/aHR0cDovLzQ4cGVk/aWEub3JnL2ltYWdl/cy90aHVtYi84Lzhl/L0x1YS1sb2dvLnN2/Zy8xMjAwcHgtTHVh/LWxvZ28uc3ZnLnBu/Zw" title="Lua" alt="Lua" height="60" height="60"/>&nbsp;
   <img src="https://imgs.search.brave.com/lczo_-Rnm6rCCDYQzSkpbN1ij0jvDUYYVtL0xWVSstM/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9wbmdp/bWcuY29tL3VwbG9h/ZHMvbXlzcWwvbXlz/cWxfUE5HMjMucG5n" title="MySQL" alt="MySQL" height="60" height="60"/>&nbsp;
 <img src="https://imgs.search.brave.com/V8fy9Y1K8jR5xuO_gWKFTXdUsHNfZ1tgEMXM8XiuOqU/rs:fit:600:600:1/g:ce/aHR0cHM6Ly9pY29u/YXBlLmNvbS93cC1j/b250ZW50L3BuZ19s/b2dvX3ZlY3Rvci9j/LnBuZw" title="C#" alt="C#" height="60" height="60"/>&nbsp;
 <img src="https://imgs.search.brave.com/NUTiF7kqWnpgbcVWlw1EpB6VwFvSHaGNvqSjAkaD5es/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly8xLmJw/LmJsb2dzcG90LmNv/bS8tbXp3MTNYUUpQ/WU0vWGd6TkhYU1Vk/WEkvQUFBQUFBQUFB/WVkveGVJaExCRXBU/UVVuOGh1VUNuV1hk/VVg2dklSX1Q0VUNR/Q1BjQkdBWVlDdy9z/MTYwMC9odHRwX19f/cGx1c3BuZy5jb21f/aW1nLXBuZ19ub2Rl/anMtcG5nLW5vZGVq/cy1pY29uLXBuZy01/MC1weC0xNjAwLnBu/Zw" title="NodeJS" alt="NodeJS" height="60" height="60"/>&nbsp;
