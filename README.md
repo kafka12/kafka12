@@ -41,7 +41,8 @@ Hi There, i'm Gaetano, i'm currently student at [ITI V.E. III PA](https://www.it
 <img src="https://imgs.search.brave.com/NUTiF7kqWnpgbcVWlw1EpB6VwFvSHaGNvqSjAkaD5es/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly8xLmJw/LmJsb2dzcG90LmNv/bS8tbXp3MTNYUUpQ/WU0vWGd6TkhYU1Vk/WEkvQUFBQUFBQUFB/WVkveGVJaExCRXBU/UVVuOGh1VUNuV1hk/VVg2dklSX1Q0VUNR/Q1BjQkdBWVlDdy9z/MTYwMC9odHRwX19f/cGx1c3BuZy5jb21f/aW1nLXBuZ19ub2Rl/anMtcG5nLW5vZGVq/cy1pY29uLXBuZy01/MC1weC0xNjAwLnBu/Zw" title="NodeJS" alt="NodeJS" height="60" height="60"/>&nbsp;
 <img src="https://imgs.search.brave.com/uMda81uy25vBspXoZNn11hLeNqAoOo6fBW71HPrsA3k/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTUxMi90eXBl/c2NyaXB0LTExNzQ5/NjUucG5n" title="TypeScript" alt="TypeScript" height="60" height="60"/>&nbsp;
 <img src="https://imgs.search.brave.com/O1appA5gk5i1C6SMbW2-fiEq3Msfu9VTAhk0DLXmYE0/rs:fit:1200:800:1/g:ce/aHR0cDovL3J1c3Rh/Y2Vhbi5uZXQvYXNz/ZXRzL3J1c3RhY2Vh/bi1mbGF0LWhhcHB5/LnBuZw" title="Rust" alt="Rust" height="60" height="60"/>&nbsp;
-<img src="https://imgs.search.brave.com/sYaCwfh-r2CbJQwOz0vg-oaCwBa7HuCHYbKec0RN-Bk/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngva290/bGluLTEtbG9nby1w/bmctdHJhbnNwYXJl/bnQucG5n" title="Kotlin" alt="Lpt;om" height="60" height="60"/>&nbsp;
+<img src="https://imgs.search.brave.com/sYaCwfh-r2CbJQwOz0vg-oaCwBa7HuCHYbKec0RN-Bk/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngva290/bGluLTEtbG9nby1w/bmctdHJhbnNwYXJl/bnQucG5n" title="Kotlin" alt="Kotlin" height="60" height="60"/>&nbsp;
+<img src="https://imgs.search.brave.com/vB3rIUOwUdSCy9FquSiK2jlHfO7i8b1KcIbEvkFdqWs/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9sb2dv/cy1kb3dubG9hZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTYvMTAvUHl0aG9u/X2xvZ29faWNvbi5w/bmc" title="Python" alt="Python" height="60" height="60"/>&nbsp;
 </p>
 <!--
 🍠 If you are reading this comment, cheers, you've got a potato !
