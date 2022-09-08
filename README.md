@@ -12,14 +12,14 @@
 ### About Me 💾
 Hi There, i'm Gaetano, i'm currently student at [ITI V.E. III PA](https://www.itive3pa.edu.it/) and i'm studying "INFORMATION TECHNOLOGY & TELECOMMUNICATIONS".
 
-- 🌊 Study Hard
+- 🌸 Study Hard
 - 🍁 Desire to Learn
 - 🐧 GNU/Linux
 - 🧡 FOSS
 
 ---
 ### Knowledge 🧠
-- [ ] 🌿 Currently Learning:
+- [ ] 🌱 Currently Learning:
 <p align="left">
 <img src="https://imgs.search.brave.com/OopF9JgmqLvtdQUnGFQkeURjwfosMW2VC7-CQOvqr1g/rs:fit:288:288:1/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL2dp/dGh1Yi9leHBsb3Jl/LzI2Njc0ZTYzODUw/OGFjNGE0ZTExM2Vl/MzJkNjc1NWViZmEw/MDA1NjkvdG9waWNz/L25lb3ZpbS9uZW92/aW0ucG5n" title="NeoVim" alt"NeoVim" height="60" height="60"/>&nbsp;
   <img src="https://imgs.search.brave.com/HGRZdQGQ-oUks0TmXDo_9Nb3TXpR3tR1I-x0xTRk6Ag/rs:fit:918:1032:1/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL2lz/b2NwcC9sb2dvcy9t/YXN0ZXIvY3BwX2xv/Z28ucG5n"  title="CPP" alt="CPP" height="60" height="60"/>&nbsp;
@@ -32,7 +32,7 @@ Hi There, i'm Gaetano, i'm currently student at [ITI V.E. III PA](https://www.it
   <img src="https://imgs.search.brave.com/iy4GL6iCws-bxqeCK-aA0GkZUgkqT_d0dFaYd9Au3r8/rs:fit:1200:1024:1/g:ce/aHR0cHM6Ly93d3cu/ZnVsbHN0YWNrcHl0/aG9uLmNvbS9pbWcv/bG9nb3MvbWFya2Rv/d24ucG5n" title="MarkDown" alt="MarkDown" height="60" height="60"/>&nbsp;
 </p>
 
-- [ ] 🍇 Interested To:
+- [ ] 👍 Interested To:
 <p align="left">
   <img src="https://imgs.search.brave.com/yGeHMpRy9PeGkjy43APOk2ESx6OYA-7lnIGGLrDdmGM/rs:fit:1200:1200:1/g:ce/aHR0cDovLzQ4cGVk/aWEub3JnL2ltYWdl/cy90aHVtYi84Lzhl/L0x1YS1sb2dvLnN2/Zy8xMjAwcHgtTHVh/LWxvZ28uc3ZnLnBu/Zw" title="Lua" alt="Lua" height="60" height="60"/>&nbsp;
   <img src="https://imgs.search.brave.com/lczo_-Rnm6rCCDYQzSkpbN1ij0jvDUYYVtL0xWVSstM/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9wbmdp/bWcuY29tL3VwbG9h/ZHMvbXlzcWwvbXlz/cWxfUE5HMjMucG5n" title="MySQL" alt="MySQL" height="60" height="60"/>&nbsp;
