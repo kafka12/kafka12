@@ -18,7 +18,7 @@ Hi There, i'm Gaetano, i'm currently student at [ITI V.E. III PA](https://www.it
 - 🧡 FOSS
 
 ---
-#### Knowledge 🧠
+### Knowledge 🧠
 - [ ] 🌿 Currently Learning:
 <p align="left">
 <img src="https://imgs.search.brave.com/OopF9JgmqLvtdQUnGFQkeURjwfosMW2VC7-CQOvqr1g/rs:fit:288:288:1/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL2dp/dGh1Yi9leHBsb3Jl/LzI2Njc0ZTYzODUw/OGFjNGE0ZTExM2Vl/MzJkNjc1NWViZmEw/MDA1NjkvdG9waWNz/L25lb3ZpbS9uZW92/aW0ucG5n" title="NeoVim" alt"NeoVim" height="60" height="60"/>&nbsp;
