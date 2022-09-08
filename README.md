@@ -31,7 +31,7 @@ Hi There, i'm Gaetano, i'm currently student at [ITI V.E. III PA](https://www.it
 <img src="https://imgs.search.brave.com/Wew3aSGfC4NNqRsh7-MEdi7VjQfBa3WHaWxbkAVnUe4/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9jZG4x/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvbG9nb3R5cGVz/LzMyL2JhZGdlLWNz/cy0zLTUxMi5wbmc" title="CSS" alt="CSS" height="60" height="60"/>&nbsp;
 </p>
 
-- [ ] 🍵 Interested To:
+- [ ] 🍇 Interested To:
 <p align="left">
   <img src="https://imgs.search.brave.com/lczo_-Rnm6rCCDYQzSkpbN1ij0jvDUYYVtL0xWVSstM/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9wbmdp/bWcuY29tL3VwbG9h/ZHMvbXlzcWwvbXlz/cWxfUE5HMjMucG5n" title="MySQL" alt="MySQL" height="60" height="60"/>&nbsp;
 <img src="https://imgs.search.brave.com/V8fy9Y1K8jR5xuO_gWKFTXdUsHNfZ1tgEMXM8XiuOqU/rs:fit:600:600:1/g:ce/aHR0cHM6Ly9pY29u/YXBlLmNvbS93cC1j/b250ZW50L3BuZ19s/b2dvX3ZlY3Rvci9j/LnBuZw" title="C#" alt="C#" height="60" height="60"/>&nbsp;
