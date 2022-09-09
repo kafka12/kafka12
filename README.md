@@ -2,8 +2,7 @@
 **kafka12/kafka12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !-->
 
-## Welcome Dude ☄️
-
+## Hi There ( ﾉ ﾟｰﾟ)ﾉ
 
 ![EVANGELION PENPEN](https://c.tenor.com/WzuejIFnFtwAAAAC/pen-pen-evangelion.gif)
 
