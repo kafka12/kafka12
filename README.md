@@ -27,6 +27,7 @@ Hi There, i'm Gaetano, i'm currently student at [ITI V.E. III PA](https://www.it
   <img src="https://imgs.search.brave.com/1BcVcmdSrY-PXvLWxr2dnB1X0q4JOPlDumA9Hmxr2RE/rs:fit:600:600:1/g:ce/aHR0cDovL3BsdXNw/bmcuY29tL2ltZy1w/bmcvamF2YXNjcmlw/dC12ZWN0b3ItcG5n/LWphdmFzY3JpcHQt/dmVjdG9yLWxvZ28t/NjAwLnBuZw" title="JavaScript" alt="JavaScript" height="60" height="60"/>&nbsp;
   <img src="https://imgs.search.brave.com/nBKhAEzefUeVMP8ozvE1Y_QPeOPM3aYVqqB8ls3gock/rs:fit:1024:1024:1/g:ce/aHR0cDovL2xvZ29u/b2lkLmNvbS9pbWFn/ZXMvaW50ZWxsaWot/aWRlYS1sb2dvLnBu/Zw" title="IntelliJ_Idea" alt="IntelliJ_Idea" height="60" height="60"/>&nbsp;
 <img src="https://imgs.search.brave.com/lczo_-Rnm6rCCDYQzSkpbN1ij0jvDUYYVtL0xWVSstM/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9wbmdp/bWcuY29tL3VwbG9h/ZHMvbXlzcWwvbXlz/cWxfUE5HMjMucG5n" title="MySQL" alt="MySQL" height="60" height="60"/>&nbsp;
+<img src="https://imgs.search.brave.com/6saaKbY58lWYk7Jn4XBp1z3aEhkIFJC1y23PZ7oIGmw/rs:fit:1200:1200:1/g:ce/aHR0cDovL2xvZnJl/di5uZXQvd3AtY29u/dGVudC9waG90b3Mv/MjAxNy8wNS9waHBf/ZW1ibGVtLnBuZw" title="PHP" alt="PHP" height="60" height="60"/>&nbsp;
  <img src="https://imgs.search.brave.com/GUEJsGR-EAXlR3ur5KobfbZBAfFQplQeAM5bPDI0C64/rs:fit:300:297:1/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5jb20vaW1h/Z2VzL1YvdmlzdWFs/LXN0dWRpby1jb2Rl/LWxvZ28tNDQ5RDcx/OTQ0Ri1zZWVrbG9n/by5jb20ucG5n" title="Visual_Studio_Code" alt="Visual_Studio_Code" height="60" height="60"/>&nbsp;
  <img src="https://imgs.search.brave.com/s34yvtTY-xgNkvbX6Ir5tgmRbcOZkBSTGTDxAFLCLCM/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9sb2dv/cy1kb3dubG9hZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTcvMDcvSFRNTDVf/YmFkZ2UucG5n" title="Html" alt="Html" height="60" height="60"/>&nbsp;
 <img src="https://imgs.search.brave.com/Wew3aSGfC4NNqRsh7-MEdi7VjQfBa3WHaWxbkAVnUe4/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9jZG4x/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvbG9nb3R5cGVz/LzMyL2JhZGdlLWNz/cy0zLTUxMi5wbmc" title="CSS" alt="CSS" height="60" height="60"/>&nbsp;
@@ -44,6 +45,8 @@ Hi There, i'm Gaetano, i'm currently student at [ITI V.E. III PA](https://www.it
 <!-- <img src="https://imgs.search.brave.com/vB3rIUOwUdSCy9FquSiK2jlHfO7i8b1KcIbEvkFdqWs/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9sb2dv/cy1kb3dubG9hZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTYvMTAvUHl0aG9u/X2xvZ29faWNvbi5w/bmc" title="Python" alt="Python" height="60" height="60"/>&nbsp; -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" title="Android_Studio" alt="Android_Studio" height="60" height="60"/>&nbsp;
 <img src="https://imgs.search.brave.com/kjKMdxzA6RrmPSG-9VRisd54fDh538x7zNxH0sUrCh0/rs:fit:438:500:1/g:ce/aHR0cHM6Ly9iYXNo/bG9nby5jb20vaW1n/L3N5bWJvbC9wbmcv/bW9ub2Nocm9tZV9k/YXJrLnBuZw" title="Bash" alt="Bash" height="60" height="60"/>&nbsp;
+<img src="https://gohugo.io/apple-touch-icon.png" title="hugo" alt="hugo" height="60" height="60"/>&nbsp;
+<img src="https://mpng.subpng.com/20190401/zsf/kisspng-mongodb-document-oriented-database-nosql-openshift-web-app-development-servcie-in-dehradun-5ca1b8cb8a0f32.3708278115541024755655.jpg" title="MongoDB" alt="MongoDB" height="60" height="60"/>&nbsp;
 </p>
 
 <!--
