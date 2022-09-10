@@ -33,7 +33,7 @@ Hi There, i'm Gaetano, i'm currently student at [ITI V.E. III PA](https://www.it
  <img src="https://imgs.search.brave.com/GUEJsGR-EAXlR3ur5KobfbZBAfFQplQeAM5bPDI0C64/rs:fit:300:297:1/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5jb20vaW1h/Z2VzL1YvdmlzdWFs/LXN0dWRpby1jb2Rl/LWxvZ28tNDQ5RDcx/OTQ0Ri1zZWVrbG9n/by5jb20ucG5n" title="Visual_Studio_Code" alt="Visual_Studio_Code" height="60" height="60"/>&nbsp;
  <img src="https://imgs.search.brave.com/s34yvtTY-xgNkvbX6Ir5tgmRbcOZkBSTGTDxAFLCLCM/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9sb2dv/cy1kb3dubG9hZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTcvMDcvSFRNTDVf/YmFkZ2UucG5n" title="Html" alt="Html" height="60" height="60"/>&nbsp;
 <img src="https://imgs.search.brave.com/Wew3aSGfC4NNqRsh7-MEdi7VjQfBa3WHaWxbkAVnUe4/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9jZG4x/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvbG9nb3R5cGVz/LzMyL2JhZGdlLWNz/cy0zLTUxMi5wbmc" title="CSS" alt="CSS" height="60" height="60"/>&nbsp;
-  <img src="https://imgs.search.brave.com/iy4GL6iCws-bxqeCK-aA0GkZUgkqT_d0dFaYd9Au3r8/rs:fit:1200:1024:1/g:ce/aHR0cHM6Ly93d3cu/ZnVsbHN0YWNrcHl0/aG9uLmNvbS9pbWcv/bG9nb3MvbWFya2Rv/d24ucG5n" title="MarkDown" alt="MarkDown" height="60" height="60"/>&nbsp;
+  <img src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/205_Markdown_logo_logos-512.png" title="MarkDown" alt="MarkDown" height="60" height="60"/>&nbsp;
 </p>
 
 - [ ] 👍 Interested To:
