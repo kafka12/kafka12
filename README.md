@@ -20,7 +20,7 @@ Hi There, i'm Gaetano, i'm currently student at [ITI V.E. III PA](https://www.it
 ### Knowledge 🧠
 - [ ] 🌱 Currently Learning:
 <p align="left">
-<img src="https://imgs.search.brave.com/OopF9JgmqLvtdQUnGFQkeURjwfosMW2VC7-CQOvqr1g/rs:fit:288:288:1/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL2dp/dGh1Yi9leHBsb3Jl/LzI2Njc0ZTYzODUw/OGFjNGE0ZTExM2Vl/MzJkNjc1NWViZmEw/MDA1NjkvdG9waWNz/L25lb3ZpbS9uZW92/aW0ucG5n" title="NeoVim" alt"NeoVim" height="60" height="60"/>&nbsp;
+<!-- <img src="https://imgs.search.brave.com/OopF9JgmqLvtdQUnGFQkeURjwfosMW2VC7-CQOvqr1g/rs:fit:288:288:1/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL2dp/dGh1Yi9leHBsb3Jl/LzI2Njc0ZTYzODUw/OGFjNGE0ZTExM2Vl/MzJkNjc1NWViZmEw/MDA1NjkvdG9waWNz/L25lb3ZpbS9uZW92/aW0ucG5n" title="NeoVim" alt"NeoVim" height="60" height="60"/>&nbsp; -->
   <img src="https://imgs.search.brave.com/HGRZdQGQ-oUks0TmXDo_9Nb3TXpR3tR1I-x0xTRk6Ag/rs:fit:918:1032:1/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL2lz/b2NwcC9sb2dvcy9t/YXN0ZXIvY3BwX2xv/Z28ucG5n"  title="CPP" alt="CPP" height="60" height="60"/>&nbsp;
   <img src="https://imgs.search.brave.com/nYrlTAuZJPf1V5lYnOSnUY9g-ykt86ITbO8_Uox2KWo/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9jbGFz/c2VzLmVuZ2luZWVy/aW5nLnd1c3RsLmVk/dS9jc2UyMzEvY29y/ZS9pbWFnZXMvMi8y/Ni9KYXZhLnBuZw" title="Java" alt="Java" height="60" height="60"/>&nbsp;
   <img src="https://imgs.search.brave.com/1BcVcmdSrY-PXvLWxr2dnB1X0q4JOPlDumA9Hmxr2RE/rs:fit:600:600:1/g:ce/aHR0cDovL3BsdXNw/bmcuY29tL2ltZy1w/bmcvamF2YXNjcmlw/dC12ZWN0b3ItcG5n/LWphdmFzY3JpcHQt/dmVjdG9yLWxvZ28t/NjAwLnBuZw" title="JavaScript" alt="JavaScript" height="60" height="60"/>&nbsp;
