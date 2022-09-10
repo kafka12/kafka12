@@ -2,10 +2,9 @@
 **kafka12/kafka12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !-->
 
-## Hi There 👋
+## Hey 👋
 
-![INTERESTING GEOMETRY](https://media.giphy.com/media/qDqBVEMsY39PIU3DCY/giphy.gif)
-![INTERESTING GEOMETRY](https://media.giphy.com/media/qDqBVEMsY39PIU3DCY/giphy.gif)
+![EVANGELION PENPEN](https://c.tenor.com/WzuejIFnFtwAAAAC/pen-pen-evangelion.gif)
 
 ---
 
@@ -57,11 +56,6 @@ Hi There, i'm Gaetano, i'm currently student at [ITI V.E. III PA](https://www.it
 <img src="https://imgs.search.brave.com/OPp5_OYqsyk8CITdeITrnwkzYaZDy_wLYqkIxqzP2Ec/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pbWcu/cG9ydGFsZ3N0aS5j/b20uYnIvOUZucHNI/YXhzbnZ6VmNHV0Nk/X1ViX29xLWpFPS8y/MDB4MjAwL2h0dHBz/Oi8vd3d3LnBvcnRh/bGdzdGkuY29tLmJy/L21lZGlhL3VwbG9h/ZHMvY29tbXVuaXR5/LzIwMTYvMDcvMjYv/dW1sLnBuZw" title="UML" alt="UML" height="60" height="60"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/294px-Official_YAML_Logo.svg.png" title="YAML" alt="YAML" height="60" height="60"/>&nbsp;
 </p>
-
----
-
-### Chill 💤
-![EVANGELION PENPEN](https://c.tenor.com/WzuejIFnFtwAAAAC/pen-pen-evangelion.gif)
 <!--
 🍠 If you are reading this comment, cheers, you've got a potato !
 !-->
