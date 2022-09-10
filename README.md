@@ -5,7 +5,7 @@
 ## Hi There ( ﾉ ﾟｰﾟ)ﾉ
 
 ![EVANGELION PENPEN](https://c.tenor.com/WzuejIFnFtwAAAAC/pen-pen-evangelion.gif)
-![INTERESTING GEOMETRY](https://i.pinimg.com/originals/bc/99/7a/bc997aef2133892b4da580381a3d3749.gif)
+![INTERESTING GEOMETRY](https://media.giphy.com/media/qDqBVEMsY39PIU3DCY/giphy.gif)
 
 ---
 
