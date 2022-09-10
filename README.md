@@ -9,7 +9,7 @@
 ---
 
 ### About Me 💾
-Hi There, i'm Gaetano, i'm currently student at [ITI V.E. III PA](https://www.itive3pa.edu.it/) and i'm studying "INFORMATION TECHNOLOGY & TELECOMMUNICATIONS".
+I'm Gaetano, i'm currently studying at [ITI V.E. III PA](https://www.itive3pa.edu.it/), "Information Technology & Telecommunications" course.
 
 - 🌸 Study Hard
 - 🍁 Desire to Learn
