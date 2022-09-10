@@ -4,7 +4,6 @@
 
 ## Hi There ( ﾉ ﾟｰﾟ)ﾉ
 
-![EVANGELION PENPEN](https://c.tenor.com/WzuejIFnFtwAAAAC/pen-pen-evangelion.gif)
 ![INTERESTING GEOMETRY](https://media.giphy.com/media/qDqBVEMsY39PIU3DCY/giphy.gif)
 
 ---
@@ -58,6 +57,10 @@ Hi There, i'm Gaetano, i'm currently student at [ITI V.E. III PA](https://www.it
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/294px-Official_YAML_Logo.svg.png" title="YAML" alt="YAML" height="60" height="60"/>&nbsp;
 </p>
 
+---
+
+### Chill
+![EVANGELION PENPEN](https://c.tenor.com/WzuejIFnFtwAAAAC/pen-pen-evangelion.gif)
 <!--
 🍠 If you are reading this comment, cheers, you've got a potato !
 !-->
