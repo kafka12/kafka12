@@ -25,6 +25,7 @@ Hi There, i'm Gaetano, i'm currently student at [ITI V.E. III PA](https://www.it
   <img src="https://imgs.search.brave.com/HGRZdQGQ-oUks0TmXDo_9Nb3TXpR3tR1I-x0xTRk6Ag/rs:fit:918:1032:1/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL2lz/b2NwcC9sb2dvcy9t/YXN0ZXIvY3BwX2xv/Z28ucG5n"  title="CPP" alt="CPP" height="60" height="60"/>&nbsp;
   <img src="https://imgs.search.brave.com/nYrlTAuZJPf1V5lYnOSnUY9g-ykt86ITbO8_Uox2KWo/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9jbGFz/c2VzLmVuZ2luZWVy/aW5nLnd1c3RsLmVk/dS9jc2UyMzEvY29y/ZS9pbWFnZXMvMi8y/Ni9KYXZhLnBuZw" title="Java" alt="Java" height="60" height="60"/>&nbsp;
   <img src="https://imgs.search.brave.com/1BcVcmdSrY-PXvLWxr2dnB1X0q4JOPlDumA9Hmxr2RE/rs:fit:600:600:1/g:ce/aHR0cDovL3BsdXNw/bmcuY29tL2ltZy1w/bmcvamF2YXNjcmlw/dC12ZWN0b3ItcG5n/LWphdmFzY3JpcHQt/dmVjdG9yLWxvZ28t/NjAwLnBuZw" title="JavaScript" alt="JavaScript" height="60" height="60"/>&nbsp;
+<img src="https://imgs.search.brave.com/1qP014C-OOh5TsasdNl24XAAsGMA1q3UgA2bNtNwIUU/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngvanNv/bi1sb2dvLXBuZy10/cmFuc3BhcmVudC5w/bmc" title="Json" alt="Json" height="60" height="60"/>&nbsp;
   <img src="https://imgs.search.brave.com/nBKhAEzefUeVMP8ozvE1Y_QPeOPM3aYVqqB8ls3gock/rs:fit:1024:1024:1/g:ce/aHR0cDovL2xvZ29u/b2lkLmNvbS9pbWFn/ZXMvaW50ZWxsaWot/aWRlYS1sb2dvLnBu/Zw" title="IntelliJ_Idea" alt="IntelliJ_Idea" height="60" height="60"/>&nbsp;
 <img src="https://imgs.search.brave.com/lczo_-Rnm6rCCDYQzSkpbN1ij0jvDUYYVtL0xWVSstM/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9wbmdp/bWcuY29tL3VwbG9h/ZHMvbXlzcWwvbXlz/cWxfUE5HMjMucG5n" title="MySQL" alt="MySQL" height="60" height="60"/>&nbsp;
 <img src="https://imgs.search.brave.com/6saaKbY58lWYk7Jn4XBp1z3aEhkIFJC1y23PZ7oIGmw/rs:fit:1200:1200:1/g:ce/aHR0cDovL2xvZnJl/di5uZXQvd3AtY29u/dGVudC9waG90b3Mv/MjAxNy8wNS9waHBf/ZW1ibGVtLnBuZw" title="PHP" alt="PHP" height="60" height="60"/>&nbsp;
@@ -36,6 +37,8 @@ Hi There, i'm Gaetano, i'm currently student at [ITI V.E. III PA](https://www.it
 
 - [ ] 👍 Interested To:
 <p align="left">
+<img src="https://www.ibs.it/images/9788850334384_0_536_0_75.jpg" title="Clean_Code" alt="Clean_Code" height="60" height="60"/>&nbsp;
+<img src="https://images-na.ssl-images-amazon.com/images/I/71M-uuOj98L.jpg" title="CLean_Architectures" alt="Clean_Architectures" height="60" height="60"/>&nbsp;
 <!--  <img src="https://imgs.search.brave.com/yGeHMpRy9PeGkjy43APOk2ESx6OYA-7lnIGGLrDdmGM/rs:fit:1200:1200:1/g:ce/aHR0cDovLzQ4cGVk/aWEub3JnL2ltYWdl/cy90aHVtYi84Lzhl/L0x1YS1sb2dvLnN2/Zy8xMjAwcHgtTHVh/LWxvZ28uc3ZnLnBu/Zw" title="Lua" alt="Lua" height="60" height="60"/>&nbsp; -->
 <img src="https://imgs.search.brave.com/V8fy9Y1K8jR5xuO_gWKFTXdUsHNfZ1tgEMXM8XiuOqU/rs:fit:600:600:1/g:ce/aHR0cHM6Ly9pY29u/YXBlLmNvbS93cC1j/b250ZW50L3BuZ19s/b2dvX3ZlY3Rvci9j/LnBuZw" title="C_Sharp" alt="C_Sharp" height="60" height="60"/>&nbsp;
 <img src="https://imgs.search.brave.com/HxOPKTGlR8q57NcWD-BW8n98Q7cbpTXmC3z3n6AHNIY/rs:fit:1130:1200:1/g:ce/aHR0cHM6Ly9hc3Nl/dHMtZ2xvYmFsLndl/YnNpdGUtZmlsZXMu/Y29tLzVkOWJjNWQ1/NjJmZmMyODY5YjQ3/MDk0MS81ZTIwY2Iz/YzBiNjY3YmE4Yzhl/MDc1NzFfaWNvbi1u/b2RlLS10ZWNoLnBu/Zw" title="NodeJS" alt="NodeJS" height="60" height="60"/>&nbsp;
@@ -47,6 +50,8 @@ Hi There, i'm Gaetano, i'm currently student at [ITI V.E. III PA](https://www.it
 <img src="https://imgs.search.brave.com/kjKMdxzA6RrmPSG-9VRisd54fDh538x7zNxH0sUrCh0/rs:fit:438:500:1/g:ce/aHR0cHM6Ly9iYXNo/bG9nby5jb20vaW1n/L3N5bWJvbC9wbmcv/bW9ub2Nocm9tZV9k/YXJrLnBuZw" title="Bash" alt="Bash" height="60" height="60"/>&nbsp;
 <img src="https://gohugo.io/apple-touch-icon.png" title="hugo" alt="hugo" height="60" height="60"/>&nbsp;
 <img src="https://www.albaconsulting.it/sites/default/files/2017-03/mongodb.png" title="MongoDB" alt="MongoDB" height="60" height="60"/>&nbsp;
+<img src="https://imgs.search.brave.com/OPp5_OYqsyk8CITdeITrnwkzYaZDy_wLYqkIxqzP2Ec/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pbWcu/cG9ydGFsZ3N0aS5j/b20uYnIvOUZucHNI/YXhzbnZ6VmNHV0Nk/X1ViX29xLWpFPS8y/MDB4MjAwL2h0dHBz/Oi8vd3d3LnBvcnRh/bGdzdGkuY29tLmJy/L21lZGlhL3VwbG9h/ZHMvY29tbXVuaXR5/LzIwMTYvMDcvMjYv/dW1sLnBuZw" title="UML" alt="UML" height="60" height="60"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/294px-Official_YAML_Logo.svg.png" title="YAML" alt="YAML" height="60" height="60"/>&nbsp;
 </p>
 
 <!--
