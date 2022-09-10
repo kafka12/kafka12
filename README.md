@@ -46,7 +46,7 @@ Hi There, i'm Gaetano, i'm currently student at [ITI V.E. III PA](https://www.it
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" title="Android_Studio" alt="Android_Studio" height="60" height="60"/>&nbsp;
 <img src="https://imgs.search.brave.com/kjKMdxzA6RrmPSG-9VRisd54fDh538x7zNxH0sUrCh0/rs:fit:438:500:1/g:ce/aHR0cHM6Ly9iYXNo/bG9nby5jb20vaW1n/L3N5bWJvbC9wbmcv/bW9ub2Nocm9tZV9k/YXJrLnBuZw" title="Bash" alt="Bash" height="60" height="60"/>&nbsp;
 <img src="https://gohugo.io/apple-touch-icon.png" title="hugo" alt="hugo" height="60" height="60"/>&nbsp;
-<img src="https://dwglogo.com/wp-content/uploads/2017/12/MongoDB_logo_01.png" title="MongoDB" alt="MongoDB" height="60" height="60"/>&nbsp;
+<img src="https://w7.pngwing.com/pngs/768/167/png-transparent-mongodb-nosql-document-oriented-database-nosql-icon-leaf-grass-business-thumbnail.png" title="MongoDB" alt="MongoDB" height="60" height="60"/>&nbsp;
 </p>
 
 <!--
