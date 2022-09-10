@@ -31,19 +31,19 @@ Hi There, i'm Gaetano, i'm currently student at [ITI V.E. III PA](https://www.it
  <img src="https://imgs.search.brave.com/s34yvtTY-xgNkvbX6Ir5tgmRbcOZkBSTGTDxAFLCLCM/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9sb2dv/cy1kb3dubG9hZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTcvMDcvSFRNTDVf/YmFkZ2UucG5n" title="Html" alt="Html" height="60" height="60"/>&nbsp;
 <img src="https://imgs.search.brave.com/Wew3aSGfC4NNqRsh7-MEdi7VjQfBa3WHaWxbkAVnUe4/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9jZG4x/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvbG9nb3R5cGVz/LzMyL2JhZGdlLWNz/cy0zLTUxMi5wbmc" title="CSS" alt="CSS" height="60" height="60"/>&nbsp;
   <img src="https://imgs.search.brave.com/iy4GL6iCws-bxqeCK-aA0GkZUgkqT_d0dFaYd9Au3r8/rs:fit:1200:1024:1/g:ce/aHR0cHM6Ly93d3cu/ZnVsbHN0YWNrcHl0/aG9uLmNvbS9pbWcv/bG9nb3MvbWFya2Rv/d24ucG5n" title="MarkDown" alt="MarkDown" height="60" height="60"/>&nbsp;
-<img src="https://imgs.search.brave.com/kjKMdxzA6RrmPSG-9VRisd54fDh538x7zNxH0sUrCh0/rs:fit:438:500:1/g:ce/aHR0cHM6Ly9iYXNo/bG9nby5jb20vaW1n/L3N5bWJvbC9wbmcv/bW9ub2Nocm9tZV9k/YXJrLnBuZw" title="Bash" alt="Bash" height="60" height="60"/>&nbsp;
 </p>
 
 - [ ] 👍 Interested To:
 <p align="left">
 <!--  <img src="https://imgs.search.brave.com/yGeHMpRy9PeGkjy43APOk2ESx6OYA-7lnIGGLrDdmGM/rs:fit:1200:1200:1/g:ce/aHR0cDovLzQ4cGVk/aWEub3JnL2ltYWdl/cy90aHVtYi84Lzhl/L0x1YS1sb2dvLnN2/Zy8xMjAwcHgtTHVh/LWxvZ28uc3ZnLnBu/Zw" title="Lua" alt="Lua" height="60" height="60"/>&nbsp; -->
 <img src="https://imgs.search.brave.com/V8fy9Y1K8jR5xuO_gWKFTXdUsHNfZ1tgEMXM8XiuOqU/rs:fit:600:600:1/g:ce/aHR0cHM6Ly9pY29u/YXBlLmNvbS93cC1j/b250ZW50L3BuZ19s/b2dvX3ZlY3Rvci9j/LnBuZw" title="C_Sharp" alt="C_Sharp" height="60" height="60"/>&nbsp;
-<img src="https://imgs.search.brave.com/NUTiF7kqWnpgbcVWlw1EpB6VwFvSHaGNvqSjAkaD5es/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly8xLmJw/LmJsb2dzcG90LmNv/bS8tbXp3MTNYUUpQ/WU0vWGd6TkhYU1Vk/WEkvQUFBQUFBQUFB/WVkveGVJaExCRXBU/UVVuOGh1VUNuV1hk/VVg2dklSX1Q0VUNR/Q1BjQkdBWVlDdy9z/MTYwMC9odHRwX19f/cGx1c3BuZy5jb21f/aW1nLXBuZ19ub2Rl/anMtcG5nLW5vZGVq/cy1pY29uLXBuZy01/MC1weC0xNjAwLnBu/Zw" title="NodeJS" alt="NodeJS" height="60" height="60"/>&nbsp;
+<img src="https://imgs.search.brave.com/HxOPKTGlR8q57NcWD-BW8n98Q7cbpTXmC3z3n6AHNIY/rs:fit:1130:1200:1/g:ce/aHR0cHM6Ly9hc3Nl/dHMtZ2xvYmFsLndl/YnNpdGUtZmlsZXMu/Y29tLzVkOWJjNWQ1/NjJmZmMyODY5YjQ3/MDk0MS81ZTIwY2Iz/YzBiNjY3YmE4Yzhl/MDc1NzFfaWNvbi1u/b2RlLS10ZWNoLnBu/Zw" title="NodeJS" alt="NodeJS" height="60" height="60"/>&nbsp;
 <img src="https://imgs.search.brave.com/uMda81uy25vBspXoZNn11hLeNqAoOo6fBW71HPrsA3k/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTUxMi90eXBl/c2NyaXB0LTExNzQ5/NjUucG5n" title="TypeScript" alt="TypeScript" height="60" height="60"/>&nbsp;
 <img src="https://imgs.search.brave.com/O1appA5gk5i1C6SMbW2-fiEq3Msfu9VTAhk0DLXmYE0/rs:fit:1200:800:1/g:ce/aHR0cDovL3J1c3Rh/Y2Vhbi5uZXQvYXNz/ZXRzL3J1c3RhY2Vh/bi1mbGF0LWhhcHB5/LnBuZw" title="Rust" alt="Rust" height="60" height="60"/>&nbsp;
 <img src="https://imgs.search.brave.com/sYaCwfh-r2CbJQwOz0vg-oaCwBa7HuCHYbKec0RN-Bk/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngva290/bGluLTEtbG9nby1w/bmctdHJhbnNwYXJl/bnQucG5n" title="Kotlin" alt="Kotlin" height="60" height="60"/>&nbsp;
 <!-- <img src="https://imgs.search.brave.com/vB3rIUOwUdSCy9FquSiK2jlHfO7i8b1KcIbEvkFdqWs/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9sb2dv/cy1kb3dubG9hZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTYvMTAvUHl0aG9u/X2xvZ29faWNvbi5w/bmc" title="Python" alt="Python" height="60" height="60"/>&nbsp; -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" title="Android_Studio" alt="Android_Studio" height="60" height="60"/>&nbsp;
+<img src="https://imgs.search.brave.com/kjKMdxzA6RrmPSG-9VRisd54fDh538x7zNxH0sUrCh0/rs:fit:438:500:1/g:ce/aHR0cHM6Ly9iYXNo/bG9nby5jb20vaW1n/L3N5bWJvbC9wbmcv/bW9ub2Nocm9tZV9k/YXJrLnBuZw" title="Bash" alt="Bash" height="60" height="60"/>&nbsp;
 </p>
 
 <!--
