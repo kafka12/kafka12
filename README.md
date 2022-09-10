@@ -2,8 +2,9 @@
 **kafka12/kafka12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !-->
 
-## Hi There ( ﾉ ﾟｰﾟ)ﾉ
+## Hi There 👋
 
+![INTERESTING GEOMETRY](https://media.giphy.com/media/qDqBVEMsY39PIU3DCY/giphy.gif)
 ![INTERESTING GEOMETRY](https://media.giphy.com/media/qDqBVEMsY39PIU3DCY/giphy.gif)
 
 ---
@@ -59,7 +60,7 @@ Hi There, i'm Gaetano, i'm currently student at [ITI V.E. III PA](https://www.it
 
 ---
 
-### Chill
+### Chill 💤
 ![EVANGELION PENPEN](https://c.tenor.com/WzuejIFnFtwAAAAC/pen-pen-evangelion.gif)
 <!--
 🍠 If you are reading this comment, cheers, you've got a potato !
