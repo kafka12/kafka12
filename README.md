@@ -2,7 +2,7 @@
 **kafka12/kafka12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !-->
 
-## Hey 👋
+<h2 align="center">Hi there✌️</h2>
 
 ![EVANGELION PENPEN](https://c.tenor.com/WzuejIFnFtwAAAAC/pen-pen-evangelion.gif)
 
@@ -23,7 +23,9 @@ I'm Gaetano, i'm currently studying at [ITI V.E. III PA](https://www.itive3pa.ed
 </p>
 
 ### Knowledge 🧠
+
 - [ ] 🌱 Currently Learning:
+
 <br>
 <p align="left">
 <!-- <img src="https://imgs.search.brave.com/OopF9JgmqLvtdQUnGFQkeURjwfosMW2VC7-CQOvqr1g/rs:fit:288:288:1/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL2dp/dGh1Yi9leHBsb3Jl/LzI2Njc0ZTYzODUw/OGFjNGE0ZTExM2Vl/MzJkNjc1NWViZmEw/MDA1NjkvdG9waWNz/L25lb3ZpbS9uZW92/aW0ucG5n" title="NeoVim" alt"NeoVim" height="60" height="60"/>&nbsp; -->
@@ -41,7 +43,9 @@ I'm Gaetano, i'm currently studying at [ITI V.E. III PA](https://www.itive3pa.ed
 <img src="https://imgs.search.brave.com/Wew3aSGfC4NNqRsh7-MEdi7VjQfBa3WHaWxbkAVnUe4/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9jZG4x/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvbG9nb3R5cGVz/LzMyL2JhZGdlLWNz/cy0zLTUxMi5wbmc" title="CSS" alt="CSS" height="60" height="60"/>&nbsp;
   <img src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/205_Markdown_logo_logos-512.png" title="MarkDown" alt="MarkDown" height="60" height="60"/>&nbsp;
 </p>
+
 - [ ] 👍 Interested To:
+ 
 <br>
 <p align="left">
 <img src="https://www.ibs.it/images/9788850334384_0_536_0_75.jpg" title="Clean_Code" alt="Clean_Code" height="60" height="60"/>&nbsp;
