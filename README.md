@@ -57,7 +57,8 @@ I'm Gaetano, i'm currently studying at [ITI V.E. III PA](https://www.itive3pa.ed
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/294px-Official_YAML_Logo.svg.png" title="YAML" alt="YAML" height="60" height="60"/>&nbsp;
 </p>
 <br>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=truehttps://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" title="catppuccin_separator" alt="catppuccin_separator"/>
+
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=truehttps://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" title="catppuccin_separator" alt="catppuccin_separator" align="center"/>
 <!--
 🍠 If you are reading this comment, cheers, you've got a potato !
 !-->
