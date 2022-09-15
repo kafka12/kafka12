@@ -56,6 +56,8 @@ I'm Gaetano, i'm currently studying at [ITI V.E. III PA](https://www.itive3pa.ed
 <img src="https://imgs.search.brave.com/OPp5_OYqsyk8CITdeITrnwkzYaZDy_wLYqkIxqzP2Ec/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pbWcu/cG9ydGFsZ3N0aS5j/b20uYnIvOUZucHNI/YXhzbnZ6VmNHV0Nk/X1ViX29xLWpFPS8y/MDB4MjAwL2h0dHBz/Oi8vd3d3LnBvcnRh/bGdzdGkuY29tLmJy/L21lZGlhL3VwbG9h/ZHMvY29tbXVuaXR5/LzIwMTYvMDcvMjYv/dW1sLnBuZw" title="UML" alt="UML" height="60" height="60"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/294px-Official_YAML_Logo.svg.png" title="YAML" alt="YAML" height="60" height="60"/>&nbsp;
 </p>
+<br>
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=truehttps://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" title="catppuccin_separator" alt="catppuccin_separator"/>
 <!--
 🍠 If you are reading this comment, cheers, you've got a potato !
 !-->
