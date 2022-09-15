@@ -24,6 +24,7 @@ I'm Gaetano, i'm currently studying at [ITI V.E. III PA](https://www.itive3pa.ed
 
 ### Knowledge 🧠
 - [ ] 🌱 Currently Learning:
+<br>
 <p align="left">
 <!-- <img src="https://imgs.search.brave.com/OopF9JgmqLvtdQUnGFQkeURjwfosMW2VC7-CQOvqr1g/rs:fit:288:288:1/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL2dp/dGh1Yi9leHBsb3Jl/LzI2Njc0ZTYzODUw/OGFjNGE0ZTExM2Vl/MzJkNjc1NWViZmEw/MDA1NjkvdG9waWNz/L25lb3ZpbS9uZW92/aW0ucG5n" title="NeoVim" alt"NeoVim" height="60" height="60"/>&nbsp; -->
 <img src="https://imgs.search.brave.com/IRP1ZMIwaPBpd27IV-LmWMizhkow-ldI2AUhzYJ0bNM/rs:fit:520:648:1/g:ce/aHR0cHM6Ly9zcHJp/bmdmcmFtZXdvcmsu/Z3VydS93cC1jb250/ZW50L3VwbG9hZHMv/MjAxNS8wNC85Nzgw/MjAxNjMzNjEwLmpw/Zw" title="Design_Patterns" alt="Design_Patterns" height="60" height="60"/>&nbsp;
@@ -41,6 +42,7 @@ I'm Gaetano, i'm currently studying at [ITI V.E. III PA](https://www.itive3pa.ed
   <img src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/205_Markdown_logo_logos-512.png" title="MarkDown" alt="MarkDown" height="60" height="60"/>&nbsp;
 </p>
 - [ ] 👍 Interested To:
+<br>
 <p align="left">
 <img src="https://www.ibs.it/images/9788850334384_0_536_0_75.jpg" title="Clean_Code" alt="Clean_Code" height="60" height="60"/>&nbsp;
 <img src="https://images-na.ssl-images-amazon.com/images/I/71M-uuOj98L.jpg" title="CLean_Architectures" alt="Clean_Architectures" height="60" height="60"/>&nbsp;
