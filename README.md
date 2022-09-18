@@ -4,7 +4,9 @@
 
 <h2 align="center">Hi there✌️</h2>
 
-![EVANGELION PENPEN](https://c.tenor.com/WzuejIFnFtwAAAAC/pen-pen-evangelion.gif)
+<p alogn="center">
+<img src="https://c.tenor.com/WzuejIFnFtwAAAAC/pen-pen-evangelion.gif" title-"penpen" alt="penpen"/>
+</p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=truehttps://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" title="catppuccin_separator" alt="catppuccin_separator"/>
