@@ -40,6 +40,11 @@ I'm Gaetano, i'm currently studying at [ITI V.E. III PA](https://www.itive3pa.ed
  <img src="https://imgs.search.brave.com/s34yvtTY-xgNkvbX6Ir5tgmRbcOZkBSTGTDxAFLCLCM/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9sb2dv/cy1kb3dubG9hZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTcvMDcvSFRNTDVf/YmFkZ2UucG5n" title="Html" alt="Html" height="60" height="60"/>&nbsp;
 <img src="https://imgs.search.brave.com/Wew3aSGfC4NNqRsh7-MEdi7VjQfBa3WHaWxbkAVnUe4/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9jZG4x/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvbG9nb3R5cGVz/LzMyL2JhZGdlLWNz/cy0zLTUxMi5wbmc" title="CSS" alt="CSS" height="60" height="60"/>&nbsp;
   <img src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/205_Markdown_logo_logos-512.png" title="MarkDown" alt="MarkDown" height="60" height="60"/>&nbsp;
+<img src="https://imgs.search.brave.com/kjKMdxzA6RrmPSG-9VRisd54fDh538x7zNxH0sUrCh0/rs:fit:438:500:1/g:ce/aHR0cHM6Ly9iYXNo/bG9nby5jb20vaW1n/L3N5bWJvbC9wbmcv/bW9ub2Nocm9tZV9k/YXJrLnBuZw" title="Bash" alt="Bash" height="60" height="60"/>&nbsp;
+<img src="https://imgs.search.brave.com/OPp5_OYqsyk8CITdeITrnwkzYaZDy_wLYqkIxqzP2Ec/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pbWcu/cG9ydGFsZ3N0aS5j/b20uYnIvOUZucHNI/YXhzbnZ6VmNHV0Nk/X1ViX29xLWpFPS8y/MDB4MjAwL2h0dHBz/Oi8vd3d3LnBvcnRh/bGdzdGkuY29tLmJy/L21lZGlhL3VwbG9h/ZHMvY29tbXVuaXR5/LzIwMTYvMDcvMjYv/dW1sLnBuZw" title="UML" alt="UML" height="60" height="60"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/294px-Official_YAML_Logo.svg.png" title="YAML" alt="YAML" height="60" height="60"/>&nbsp;
+<br>
+ 
 </p>
 
 - [ ] 👍 Interested To:
@@ -52,10 +57,6 @@ I'm Gaetano, i'm currently studying at [ITI V.E. III PA](https://www.itive3pa.ed
 <img src="https://imgs.search.brave.com/O1appA5gk5i1C6SMbW2-fiEq3Msfu9VTAhk0DLXmYE0/rs:fit:1200:800:1/g:ce/aHR0cDovL3J1c3Rh/Y2Vhbi5uZXQvYXNz/ZXRzL3J1c3RhY2Vh/bi1mbGF0LWhhcHB5/LnBuZw" title="Rust" alt="Rust" height="60" height="60"/>&nbsp;
 <img src="https://imgs.search.brave.com/sYaCwfh-r2CbJQwOz0vg-oaCwBa7HuCHYbKec0RN-Bk/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngva290/bGluLTEtbG9nby1w/bmctdHJhbnNwYXJl/bnQucG5n" title="Kotlin" alt="Kotlin" height="60" height="60"/>&nbsp;
 <img src="https://imgs.search.brave.com/vB3rIUOwUdSCy9FquSiK2jlHfO7i8b1KcIbEvkFdqWs/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9sb2dv/cy1kb3dubG9hZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTYvMTAvUHl0aG9u/X2xvZ29faWNvbi5w/bmc" title="Python" alt="Python" height="60" height="60"/>&nbsp;
-<img src="https://imgs.search.brave.com/kjKMdxzA6RrmPSG-9VRisd54fDh538x7zNxH0sUrCh0/rs:fit:438:500:1/g:ce/aHR0cHM6Ly9iYXNo/bG9nby5jb20vaW1n/L3N5bWJvbC9wbmcv/bW9ub2Nocm9tZV9k/YXJrLnBuZw" title="Bash" alt="Bash" height="60" height="60"/>&nbsp;
-<img src="https://imgs.search.brave.com/OPp5_OYqsyk8CITdeITrnwkzYaZDy_wLYqkIxqzP2Ec/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pbWcu/cG9ydGFsZ3N0aS5j/b20uYnIvOUZucHNI/YXhzbnZ6VmNHV0Nk/X1ViX29xLWpFPS8y/MDB4MjAwL2h0dHBz/Oi8vd3d3LnBvcnRh/bGdzdGkuY29tLmJy/L21lZGlhL3VwbG9h/ZHMvY29tbXVuaXR5/LzIwMTYvMDcvMjYv/dW1sLnBuZw" title="UML" alt="UML" height="60" height="60"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/294px-Official_YAML_Logo.svg.png" title="YAML" alt="YAML" height="60" height="60"/>&nbsp;
-<br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" title="Android_Studio" alt="Android_Studio" height="60" height="60"/>&nbsp;
 <img src="https://imgs.search.brave.com/fKbOF5qEgbY1kekgTTVZYM6i-qyitYNJS71ZUU8gCF8/rs:fit:320:320:1/g:ce/aHR0cHM6Ly9zYXNz/LWxhbmcuY29tL2Fz/c2V0cy9pbWcvc3R5/bGVndWlkZS9zZWFs/LWNvbG9yLWFlZjAz/NTRjLnBuZw" title="Sass" alt="Sass" height="60" height="60"/>&nbsp;
 <img src="https://gohugo.io/apple-touch-icon.png" title="hugo" alt="hugo" height="60" height="60"/>&nbsp;
