@@ -76,7 +76,6 @@ I'm Gaetano, i'm currently studying at [ITI V.E. III PA](https://www.itive3pa.ed
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=truehttps://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" title="catppuccin_separator" alt="catppuccin_separator"/>
 </p>
 
+<p align="center"
 [![Kafka's GitHub stats](https://github-readme-stats.vercel.app/api?username=kafka12&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-🍠 If you are reading this comment, cheers, you've got a potato !
-!-->
+</p>
