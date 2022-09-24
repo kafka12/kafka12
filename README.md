@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋🏼 </h2>
 
 <p align="center">
-<img src="https://c.tenor.com/WzuejIFnFtwAAAAC/pen-pen-evangelion.gif" title-"penpen" alt="penpen"/>
+<img src="https://c.tenor.com/TwmHZREW9esAAAAC/pen-pen-evangelion.gif" title-"penpen" alt="penpen"/>
 </p>
 
 <p align="center">
