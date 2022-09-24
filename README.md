@@ -1,8 +1,4 @@
-<!--
-**kafka12/kafka12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-!-->
-
-<h2 align="center">Hi there✌️</h2>
+<h2 align="center">Hi there 👋🏼 </h2>
 
 <p align="center">
 <img src="https://c.tenor.com/WzuejIFnFtwAAAAC/pen-pen-evangelion.gif" title-"penpen" alt="penpen"/>
