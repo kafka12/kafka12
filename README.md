@@ -8,7 +8,8 @@
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=truehttps://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" title="catppuccin_separator" alt="catppuccin_separator"/>
 <p>
 
-### About Me 💾
+<h2 align="center"> About Me 💾 </h2>
+<p align="center">
 I'm Gaetano, i'm currently studying at [ITI V.E. III PA](https://www.itive3pa.edu.it/), "Information Technology & Telecommunications" course.
 
 - 🌸 Study Hard
@@ -16,11 +17,10 @@ I'm Gaetano, i'm currently studying at [ITI V.E. III PA](https://www.itive3pa.ed
 - 🐧 GNU/Linux
 - 🧡 FOSS
 
-<p align="center">
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=truehttps://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" title="catppuccin_separator" alt="catppuccin_separator"/>
 </p>
 
-### Knowledge 🧠
+<h2 align="center"> Knowledge 🧠 </h2>
 
 - [ ] 🌱 Currently Learning:
 
