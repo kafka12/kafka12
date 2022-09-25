@@ -69,6 +69,7 @@ I'm Gaetano, i'm currently studying at [ITI V.E. III PA](https://www.itive3pa.ed
 <img src="https://images-na.ssl-images-amazon.com/images/I/71M-uuOj98L.jpg" title="CLean_Architectures" alt="Clean_Architectures" height="60" height="60"/>&nbsp;
 <img src="https://imgs.search.brave.com/IRP1ZMIwaPBpd27IV-LmWMizhkow-ldI2AUhzYJ0bNM/rs:fit:520:648:1/g:ce/aHR0cHM6Ly9zcHJp/bmdmcmFtZXdvcmsu/Z3VydS93cC1jb250/ZW50L3VwbG9hZHMv/MjAxNS8wNC85Nzgw/MjAxNjMzNjEwLmpw/Zw" title="Design_Patterns" alt="Design_Patterns" height="60" height="60"/>&nbsp;
 <img src="https://eloquentjavascript.net/img/cover.jpg" title="Eloquent JavaScript" alt="Eloquent JavaScript" height="60" height="60"/>&nbsp;
+<img src="https://github.com/Apress/beginning-cpp20/raw/main/9781484258835.jpg" title="C++20" alt="C++20" height="60" height="60"/>&nbsp;
 </p>
 <br>
 <p align="center">
