@@ -10,7 +10,7 @@
 
 <h2 align="center"> About Me 💾 </h2>
 <p align="center">
-I'm Gaetano, i'm currently studying at [ITI V.E. III PA](https://www.itive3pa.edu.it/), "Information Technology & Telecommunications" course.
+I'm Gaetano, i'm currently studying at <a href="https://www.itive3pa.edu.it">ITI V.E. III</a>, "Information Technology & Telecommunications" course.
 
 - 🌸 Study Hard
 - 🍁 Desire to Learn
