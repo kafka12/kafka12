@@ -16,7 +16,9 @@ I'm Gaetano, i'm currently studying at [ITI V.E. III PA](https://www.itive3pa.ed
 - 🍁 Desire to Learn
 - 🐧 GNU/Linux
 - 🧡 FOSS
-
+  
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=truehttps://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" title="catppuccin_separator" alt="catppuccin_separator"/>
 </p>
 
